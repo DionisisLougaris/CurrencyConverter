@@ -1,0 +1,11 @@
+﻿body {
+    background-color:#C7C55F;
+}
+#titleLabel{
+    color :#000000;
+    font-size: 50px;
+}
+.labels{
+    color :#581845;
+    font-size: 25px;
+}
